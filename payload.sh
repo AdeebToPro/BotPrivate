@@ -13,7 +13,7 @@ while true; do
 done
 
 pip install cloudscraper requests pycryptodome && pip3 install cloudscraper requests pycryptodome
-curl https://raw.githubusercontent.com/AdeebToPro/BotPrivate/main/bot.py
+curl https://github.com/AdeebToPro/BotPrivate/blob/main/bot.py
 
 while true; do
  if sudo python3 bot.py; then
